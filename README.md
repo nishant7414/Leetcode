@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/nishant7414/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nishant7414/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Binary Search
 |  |
@@ -14,9 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/nishant7414/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nishant7414/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nishant7414/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+## Hash Table
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/nishant7414/Leetcode/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
