@@ -48,9 +48,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/nishant7414/Leetcode/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/nishant7414/Leetcode/tree/master/0826-soup-servings) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/nishant7414/Leetcode/tree/master/0826-soup-servings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/nishant7414/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/nishant7414/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
