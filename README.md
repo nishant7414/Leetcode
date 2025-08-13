@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/nishant7414/Leetcode/tree/master/0826-soup-servings) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/nishant7414/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nishant7414/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Matrix
 |  |
