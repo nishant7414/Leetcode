@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nishant7414/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/nishant7414/Leetcode/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/nishant7414/Leetcode/tree/master/0679-24-game) |
 | [0940-fruit-into-baskets](https://github.com/nishant7414/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nishant7414/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nishant7414/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/nishant7414/Leetcode/tree/master/0037-sudoku-solver) |
 | [0900-reordered-power-of-2](https://github.com/nishant7414/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/nishant7414/Leetcode/tree/master/0940-fruit-into-baskets) |
 ## Segment Tree
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nishant7414/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/nishant7414/Leetcode/tree/master/0037-sudoku-solver) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nishant7414/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/nishant7414/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nishant7414/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nishant7414/Leetcode/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/nishant7414/Leetcode/tree/master/0679-24-game) |
 ## Stack
 |  |
