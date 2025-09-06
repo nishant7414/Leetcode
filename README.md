@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/nishant7414/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nishant7414/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nishant7414/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/nishant7414/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/nishant7414/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3791-fruits-into-baskets-iii](https://github.com/nishant7414/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/nishant7414/Leetcode/tree/master/1448-maximum-69-number) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nishant7414/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/nishant7414/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/nishant7414/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nishant7414/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/nishant7414/Leetcode/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/nishant7414/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/nishant7414/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Recursion
 |  |
 | ------- |
