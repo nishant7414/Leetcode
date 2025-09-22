@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/nishant7414/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nishant7414/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/nishant7414/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/nishant7414/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/nishant7414/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nishant7414/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nishant7414/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/nishant7414/Leetcode/tree/master/0037-sudoku-solver) |
 | [0900-reordered-power-of-2](https://github.com/nishant7414/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/nishant7414/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/nishant7414/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Segment Tree
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/nishant7414/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/nishant7414/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Enumeration
 |  |
 | ------- |
