@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/nishant7414/Leetcode/tree/master/0037-sudoku-solver) |
 | [0120-triangle](https://github.com/nishant7414/Leetcode/tree/master/0120-triangle) |
 | [0679-24-game](https://github.com/nishant7414/Leetcode/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/nishant7414/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/nishant7414/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nishant7414/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nishant7414/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/nishant7414/Leetcode/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/nishant7414/Leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/nishant7414/Leetcode/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/nishant7414/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/nishant7414/Leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/nishant7414/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/nishant7414/Leetcode/tree/master/1448-maximum-69-number) |
@@ -162,5 +164,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/nishant7414/Leetcode/tree/master/0830-largest-triangle-area) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nishant7414/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
