@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nishant7414/Leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/nishant7414/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nishant7414/Leetcode/tree/master/0037-sudoku-solver) |
 | [0120-triangle](https://github.com/nishant7414/Leetcode/tree/master/0120-triangle) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nishant7414/Leetcode/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/nishant7414/Leetcode/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/nishant7414/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Backtracking
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/nishant7414/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nishant7414/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
