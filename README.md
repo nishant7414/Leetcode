@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/nishant7414/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/nishant7414/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nishant7414/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/nishant7414/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nishant7414/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/nishant7414/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nishant7414/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nishant7414/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/nishant7414/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/nishant7414/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/nishant7414/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
