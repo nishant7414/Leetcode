@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nishant7414/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nishant7414/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2529-range-product-queries-of-powers](https://github.com/nishant7414/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nishant7414/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nishant7414/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/nishant7414/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nishant7414/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/nishant7414/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/nishant7414/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nishant7414/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nishant7414/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nishant7414/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nishant7414/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Segment Tree
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/nishant7414/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/nishant7414/Leetcode/tree/master/1448-maximum-69-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nishant7414/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nishant7414/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nishant7414/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/nishant7414/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/nishant7414/Leetcode/tree/master/3336-water-bottles-ii) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/nishant7414/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/nishant7414/Leetcode/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/nishant7414/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nishant7414/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Backtracking
 |  |
 | ------- |
