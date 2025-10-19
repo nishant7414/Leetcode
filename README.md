@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/nishant7414/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nishant7414/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nishant7414/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nishant7414/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Greedy
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/nishant7414/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishant7414/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nishant7414/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishant7414/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nishant7414/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Bitmask
 |  |
 | ------- |
@@ -243,5 +246,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nishant7414/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nishant7414/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/nishant7414/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
