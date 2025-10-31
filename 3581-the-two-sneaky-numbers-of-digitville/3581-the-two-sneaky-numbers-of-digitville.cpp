@@ -6,7 +6,6 @@ public:
 
         for (int num : nums) XOR ^= num;            
         for (int i = 0; i < n; i++) XOR ^= i;
-        //for (int i = 0; i < n; i++) XOR ^= nums[i] ^ (i < n ? i : 0); //single-pass
 
         int diffBit = XOR & -XOR;
 
