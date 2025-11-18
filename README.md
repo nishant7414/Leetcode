@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/nishant7414/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/nishant7414/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0679-24-game](https://github.com/nishant7414/Leetcode/tree/master/0679-24-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/nishant7414/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0830-largest-triangle-area](https://github.com/nishant7414/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/nishant7414/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1018-largest-perimeter-triangle](https://github.com/nishant7414/Leetcode/tree/master/1018-largest-perimeter-triangle) |
