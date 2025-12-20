@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/nishant7414/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nishant7414/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/nishant7414/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
+| [2092-find-all-people-with-secret](https://github.com/nishant7414/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nishant7414/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nishant7414/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nishant7414/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/nishant7414/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishant7414/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nishant7414/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/nishant7414/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/nishant7414/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishant7414/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nishant7414/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/nishant7414/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/nishant7414/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/nishant7414/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Bitmask
@@ -377,10 +380,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/nishant7414/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/nishant7414/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/nishant7414/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/nishant7414/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Tree
 |  |
