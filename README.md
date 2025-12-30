@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/nishant7414/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/nishant7414/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0830-largest-triangle-area](https://github.com/nishant7414/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/nishant7414/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0940-fruit-into-baskets](https://github.com/nishant7414/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nishant7414/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nishant7414/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/nishant7414/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nishant7414/Leetcode/tree/master/0037-sudoku-solver) |
+| [0840-magic-squares-in-grid](https://github.com/nishant7414/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/nishant7414/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/nishant7414/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nishant7414/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/nishant7414/Leetcode/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/nishant7414/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishant7414/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0840-magic-squares-in-grid](https://github.com/nishant7414/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nishant7414/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/nishant7414/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2625-increment-submatrices-by-one](https://github.com/nishant7414/Leetcode/tree/master/2625-increment-submatrices-by-one) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/nishant7414/Leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/nishant7414/Leetcode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/nishant7414/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/nishant7414/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/nishant7414/Leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/nishant7414/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/nishant7414/Leetcode/tree/master/1018-largest-perimeter-triangle) |
