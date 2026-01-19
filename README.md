@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/nishant7414/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/nishant7414/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nishant7414/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/nishant7414/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nishant7414/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/nishant7414/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1390-four-divisors](https://github.com/nishant7414/Leetcode/tree/master/1390-four-divisors) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/nishant7414/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nishant7414/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nishant7414/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nishant7414/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/nishant7414/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/nishant7414/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1895-largest-magic-square](https://github.com/nishant7414/Leetcode/tree/master/1895-largest-magic-square) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nishant7414/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/nishant7414/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishant7414/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0840-magic-squares-in-grid](https://github.com/nishant7414/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/nishant7414/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nishant7414/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/nishant7414/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1895-largest-magic-square](https://github.com/nishant7414/Leetcode/tree/master/1895-largest-magic-square) |
