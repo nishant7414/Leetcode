@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nishant7414/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/nishant7414/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/nishant7414/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/nishant7414/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/nishant7414/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nishant7414/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nishant7414/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nishant7414/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishant7414/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nishant7414/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/nishant7414/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/nishant7414/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/nishant7414/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3606-coupon-code-validator](https://github.com/nishant7414/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -505,9 +507,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/nishant7414/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/nishant7414/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/nishant7414/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/nishant7414/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
