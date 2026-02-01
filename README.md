@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nishant7414/Leetcode/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/nishant7414/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/nishant7414/Leetcode/tree/master/0120-triangle) |
+| [0174-dungeon-game](https://github.com/nishant7414/Leetcode/tree/master/0174-dungeon-game) |
 | [0407-trapping-rain-water-ii](https://github.com/nishant7414/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishant7414/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/nishant7414/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/nishant7414/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/nishant7414/Leetcode/tree/master/0120-triangle) |
+| [0174-dungeon-game](https://github.com/nishant7414/Leetcode/tree/master/0174-dungeon-game) |
 | [0474-ones-and-zeroes](https://github.com/nishant7414/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nishant7414/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0826-soup-servings](https://github.com/nishant7414/Leetcode/tree/master/0826-soup-servings) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/nishant7414/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nishant7414/Leetcode/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/nishant7414/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0174-dungeon-game](https://github.com/nishant7414/Leetcode/tree/master/0174-dungeon-game) |
 | [0407-trapping-rain-water-ii](https://github.com/nishant7414/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishant7414/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0840-magic-squares-in-grid](https://github.com/nishant7414/Leetcode/tree/master/0840-magic-squares-in-grid) |
