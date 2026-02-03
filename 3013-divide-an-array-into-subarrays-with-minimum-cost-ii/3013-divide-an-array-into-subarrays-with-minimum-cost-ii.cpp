@@ -1,74 +1,76 @@
 class Solution {
 public:
-    struct SmartWindow{
-        int K;
-        multiset<int> low, high;
-        long long sumLow = 0;
-
-        SmartWindow(int k) : K(k) {}
-
-        int windowSize() const{
-            return (int)low.size() + (int)high.size();
-        }
-        void rebalance() {
-            int need = min(K, windowSize());
-
-            while((int)low.size() > need){
-                auto it = prev(low.end());
-                int x = *it;
-                low.erase(it);
-                sumLow -= x;
-                high.insert(x);
-            }
-            while((int)low.size() < need && !high.empty()){
-                auto it = high.begin();
-                int x = *it;
-                high.erase(it);
-                low.insert(x);
-                sumLow += x;
-            }
-        }
-        void add(int x){
-            if(low.empty() || x <= *prev(low.end())){
-                low.insert(x);
-                sumLow += x;
-            }
-            else{
-                high.insert(x);
-            }
-            rebalance();
-        }
-        void remove(int x){
-            auto itLow = low.find(x);
-            if(itLow != low.end()){
-                low.erase(itLow);
-                sumLow -= x;
-            }
-            else{
-                auto itHigh = high.find(x);
-                if(itHigh != high.end()){
-                    high.erase(itHigh);
-                }
-            }
-            rebalance();
-        }
-        long long query() const{
-            return sumLow;
-        }
-    };
     long long minimumCost(vector<int>& nums, int k, int dist) {
-        int n = (int)nums.size();
-        k -= 1;
-        SmartWindow window(k);
-        for(int i = 1; i <= 1 + dist; i ++){
-            window.add(nums[i]);
+        long long ans=1e15,temp_sum=0;
+        int n=nums.size(),s=n-dist-1; 
+
+        priority_queue<int,vector<int>,greater<int>>maxi;
+        priority_queue<int>mini;
+        unordered_map<int,int>mp_mini;
+        unordered_map<int,int>mp_maxi;
+        vector<int>temp;
+
+        for(int i=n-1;i>=s && i>=1;i--) temp.push_back(nums[i]);
+        sort(temp.begin(),temp.end());
+        for(int i=0;i<k-1;i++){
+            temp_sum+=1LL*temp[i];
+            mini.push(temp[i]);
+        } 
+        for(int i=k-1;i<temp.size();i++) maxi.push(temp[i]);
+
+        ans=temp_sum;
+
+        cout<<ans<<" "<<temp_sum;
+        cout<<" "<<temp.size();
+
+        for(int i=s-1;i>=1;i--){
+            int new_element=nums[i];
+            int old_element=nums[i+dist+1];
+
+            while(!mini.empty() && mp_mini[mini.top()]>0){
+                mp_mini[mini.top()]--;
+                mini.pop();
+            }
+            while(!maxi.empty() && mp_maxi[maxi.top()]>0){
+                mp_maxi[maxi.top()]--;
+                maxi.pop();
+            }
+
+            if(!maxi.empty() && old_element>=maxi.top()){
+                 mp_maxi[old_element]++;
+
+                 if(new_element<mini.top()){
+                    maxi.push(mini.top());
+                     temp_sum-=1LL*mini.top();
+                    mini.pop();
+                    mini.push(new_element);
+                    temp_sum+=1LL*new_element;
+                 }
+                 else{
+                    maxi.push(new_element);
+                 }
+
+            }
+            else{
+                 mp_mini[old_element]++;
+                 temp_sum-=1LL*old_element;
+
+                 if(!maxi.empty() && new_element>maxi.top()){
+                    mini.push(maxi.top());
+                    temp_sum+=1LL*maxi.top();
+                    maxi.pop();
+                    maxi.push(new_element);
+                 }
+                 else{
+                    mini.push(new_element);
+                     temp_sum+=1LL*new_element;
+                 }
+
+            }
+
+            ans=min(ans,temp_sum);
+
         }
-        long long ans = window.query();
-        for(int i = 2; i + dist < n; i ++){
-            window.remove(nums[i - 1]);
-            window.add(nums[i + dist]);
-            ans = min(ans, window.query());
-        }
-        return ans + nums[0];
+        return ans+1LL*nums[0];
     }
 };
