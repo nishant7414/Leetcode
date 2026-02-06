@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/nishant7414/Leetcode/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nishant7414/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nishant7414/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/nishant7414/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0174-dungeon-game](https://github.com/nishant7414/Leetcode/tree/master/0174-dungeon-game) |
 | [0474-ones-and-zeroes](https://github.com/nishant7414/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nishant7414/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/nishant7414/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nishant7414/Leetcode/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/nishant7414/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0474-ones-and-zeroes](https://github.com/nishant7414/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nishant7414/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nishant7414/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
