@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/nishant7414/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nishant7414/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/nishant7414/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishant7414/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/nishant7414/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nishant7414/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/nishant7414/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nishant7414/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/nishant7414/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nishant7414/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/nishant7414/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nishant7414/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
