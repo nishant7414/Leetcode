@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/nishant7414/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/nishant7414/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/nishant7414/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/nishant7414/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/nishant7414/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/nishant7414/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3863-power-grid-maintenance](https://github.com/nishant7414/Leetcode/tree/master/3863-power-grid-maintenance) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/nishant7414/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nishant7414/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nishant7414/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3713-longest-balanced-substring-i](https://github.com/nishant7414/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nishant7414/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nishant7414/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/nishant7414/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3713-longest-balanced-substring-i](https://github.com/nishant7414/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
 |  |
 | ------- |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/nishant7414/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/nishant7414/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3606-coupon-code-validator](https://github.com/nishant7414/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/nishant7414/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nishant7414/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
