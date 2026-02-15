@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nishant7414/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/nishant7414/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/nishant7414/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nishant7414/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nishant7414/Leetcode/tree/master/0263-ugly-number) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nishant7414/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/nishant7414/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/nishant7414/Leetcode/tree/master/0342-power-of-four) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/nishant7414/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nishant7414/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/nishant7414/Leetcode/tree/master/0258-add-digits) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishant7414/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/nishant7414/Leetcode/tree/master/2169-simple-bank-system) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nishant7414/Leetcode/tree/master/0067-add-binary) |
 | [0126-word-ladder-ii](https://github.com/nishant7414/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nishant7414/Leetcode/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/nishant7414/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
