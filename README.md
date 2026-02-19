@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nishant7414/Leetcode/tree/master/0011-container-with-most-water) |
+| [0696-count-binary-substrings](https://github.com/nishant7414/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nishant7414/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nishant7414/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Depth-First Search
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/nishant7414/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0257-binary-tree-paths](https://github.com/nishant7414/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0474-ones-and-zeroes](https://github.com/nishant7414/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0696-count-binary-substrings](https://github.com/nishant7414/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nishant7414/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nishant7414/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nishant7414/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
