@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nishant7414/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/nishant7414/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2625-increment-submatrices-by-one](https://github.com/nishant7414/Leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/nishant7414/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/nishant7414/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nishant7414/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/nishant7414/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nishant7414/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/nishant7414/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/nishant7414/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/nishant7414/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/nishant7414/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nishant7414/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/nishant7414/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
