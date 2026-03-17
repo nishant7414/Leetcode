@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/nishant7414/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nishant7414/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nishant7414/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/nishant7414/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nishant7414/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/nishant7414/Leetcode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/nishant7414/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nishant7414/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nishant7414/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/nishant7414/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/nishant7414/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1895-largest-magic-square](https://github.com/nishant7414/Leetcode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/nishant7414/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2625-increment-submatrices-by-one](https://github.com/nishant7414/Leetcode/tree/master/2625-increment-submatrices-by-one) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nishant7414/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nishant7414/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/nishant7414/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/nishant7414/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nishant7414/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nishant7414/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2092-find-all-people-with-secret](https://github.com/nishant7414/Leetcode/tree/master/2092-find-all-people-with-secret) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nishant7414/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nishant7414/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nishant7414/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/nishant7414/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nishant7414/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/nishant7414/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/nishant7414/Leetcode/tree/master/1975-maximum-matrix-sum) |
