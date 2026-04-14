@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nishant7414/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nishant7414/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nishant7414/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2463-minimum-total-distance-traveled](https://github.com/nishant7414/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2529-range-product-queries-of-powers](https://github.com/nishant7414/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2573-find-the-string-with-lcp](https://github.com/nishant7414/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/nishant7414/Leetcode/tree/master/2625-increment-submatrices-by-one) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nishant7414/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nishant7414/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nishant7414/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2463-minimum-total-distance-traveled](https://github.com/nishant7414/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/nishant7414/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/nishant7414/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/nishant7414/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/nishant7414/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nishant7414/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nishant7414/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2463-minimum-total-distance-traveled](https://github.com/nishant7414/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/nishant7414/Leetcode/tree/master/2751-robot-collisions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/nishant7414/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nishant7414/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
