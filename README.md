@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nishant7414/Leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/nishant7414/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nishant7414/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/nishant7414/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/nishant7414/Leetcode/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/nishant7414/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/nishant7414/Leetcode/tree/master/0120-triangle) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/nishant7414/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nishant7414/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/nishant7414/Leetcode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/nishant7414/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/nishant7414/Leetcode/tree/master/0174-dungeon-game) |
 | [0407-trapping-rain-water-ii](https://github.com/nishant7414/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nishant7414/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/nishant7414/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nishant7414/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/nishant7414/Leetcode/tree/master/0231-power-of-two) |
