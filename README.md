@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/nishant7414/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/nishant7414/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1306-jump-game-iii](https://github.com/nishant7414/Leetcode/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/nishant7414/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/nishant7414/Leetcode/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nishant7414/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nishant7414/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/nishant7414/Leetcode/tree/master/0867-new-21-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nishant7414/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nishant7414/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/nishant7414/Leetcode/tree/master/1340-jump-game-v) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/nishant7414/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nishant7414/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/nishant7414/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/nishant7414/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/nishant7414/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/nishant7414/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1340-jump-game-v](https://github.com/nishant7414/Leetcode/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nishant7414/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nishant7414/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/nishant7414/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
