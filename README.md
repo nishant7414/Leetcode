@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nishant7414/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nishant7414/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/nishant7414/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nishant7414/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/nishant7414/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/nishant7414/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/nishant7414/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/nishant7414/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/nishant7414/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nishant7414/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nishant7414/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/nishant7414/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/nishant7414/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Sliding Window
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/nishant7414/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nishant7414/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/nishant7414/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nishant7414/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/nishant7414/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/nishant7414/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/nishant7414/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/nishant7414/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nishant7414/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nishant7414/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -690,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/nishant7414/Leetcode/tree/master/2540-minimum-common-value) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nishant7414/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nishant7414/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nishant7414/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/nishant7414/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Depth-First Search
 |  |
