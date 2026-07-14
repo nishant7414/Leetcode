@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nishant7414/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/nishant7414/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/nishant7414/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nishant7414/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/nishant7414/Leetcode/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/nishant7414/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/nishant7414/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/nishant7414/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/nishant7414/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/nishant7414/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nishant7414/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/nishant7414/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nishant7414/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nishant7414/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nishant7414/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nishant7414/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/nishant7414/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nishant7414/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3433-count-mentions-per-user](https://github.com/nishant7414/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nishant7414/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nishant7414/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -885,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/nishant7414/Leetcode/tree/master/0258-add-digits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nishant7414/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nishant7414/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nishant7414/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nishant7414/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
