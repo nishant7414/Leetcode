@@ -646,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/nishant7414/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nishant7414/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/nishant7414/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishant7414/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/nishant7414/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/nishant7414/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/nishant7414/Leetcode/tree/master/1448-maximum-69-number) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/nishant7414/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishant7414/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/nishant7414/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nishant7414/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/nishant7414/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/nishant7414/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishant7414/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/nishant7414/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nishant7414/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Memoization
@@ -857,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/nishant7414/Leetcode/tree/master/0796-rotate-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nishant7414/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nishant7414/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishant7414/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/nishant7414/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nishant7414/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nishant7414/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
